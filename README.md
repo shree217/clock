@@ -2,7 +2,7 @@ Its an analog clock with dark theme effect created using html ,css and javascrip
 
 ## screenshot 
 
-![](analogclock.jpg)
+![](analogclock.png)
 
 ## video record
 
