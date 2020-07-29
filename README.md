@@ -1,3 +1,9 @@
-Its an analog clock created using html ,css and javascript.
+Its an analog clock with dark theme effect created using html ,css and javascript.
 
-![](clock.png)
+## screenshot 
+
+![](analogclock.jpg)
+
+## video record
+
+![](analogclock.mp4)
